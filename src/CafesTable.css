@@ -1,0 +1,33 @@
+.card-image {
+  margin: 0 0 10px;
+  border-radius: 4px;
+}
+
+.card p {
+  margin-bottom: 10px;
+}
+
+.metro {
+  margin-top: 0;
+  padding-left: 20px;
+  background: url("https://img.artlebedev.ru/everything/metro/logo/metro-logo-mt.gif") no-repeat 0 50%/15px ;
+}
+.card .address {
+  margin-bottom: 0;
+}
+
+
+.desc {
+  font-size: 13px;
+  color: #666;
+}
+
+.workTime {
+  margin-top: 20px;
+  font-style: italic;
+}
+
+.controls {
+  font-size: 20px;
+
+}
